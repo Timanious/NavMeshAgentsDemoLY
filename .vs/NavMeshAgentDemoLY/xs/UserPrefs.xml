@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2ADE16C1-16F7-69BF-2E69-35CC54F1EBFC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EnemyAI2.cs">
+    <Files>
+      <File FileName="Assets/EnemyAI1.cs" Line="36" Column="22" />
+      <File FileName="Assets/EnemyAI2.cs" Line="19" Column="34" />
+      <File FileName="Assets/MovingObstacle1.cs" Line="56" Column="27" />
+      <File FileName="Assets/MovingObstacle2.cs" Line="53" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
